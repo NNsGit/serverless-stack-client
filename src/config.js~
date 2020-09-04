@@ -1,6 +1,6 @@
 export default {
   MAX_ATTACHMENT_SIZE: 5000000,
-  STRIPE_KEY: "pk_test_51HFNalLoiWQjmWw3KWT7FbuOECF6AyHk6g6zFWpZxEbFlG2NQUi3SiVRHBazeNeWG0CK6E1JvjS7gcyDFiJlGFIu00yIoHrpN1",
+  STRIPE_KEY: "pk_test_51HFNalLoiWQjmWw3KWT7FbuOECF6AyHk6g6zFWpZxEbFlG2NQUi3SiVRHBazeNeWG0CK6E1JvjS7gcyDFiJlGFIu00yIoHrpN1i",
   s3: {
     REGION: "us-east-2",
     BUCKET: "slsnotes"
